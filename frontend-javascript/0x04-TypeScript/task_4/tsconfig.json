@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ES2015",
+    "module": "none",
+    "outFile": "./dist/main.js",      
+    "rootDir": "./js",
+    "strict": true
+  },
+  "include": ["js/**/*.ts"]
+}
